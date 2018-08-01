@@ -1,6 +1,6 @@
 {
   "name": "stool-build",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于webpack封装的前端自动化包",
   "main": "index.js",
   "scripts": {
